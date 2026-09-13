@@ -1,3 +1,6 @@
+> [!NOTE]
+> This personal contribution fork is archived and retained for reference. My README fix was merged in [DetachHead/basedpyright#354](https://github.com/DetachHead/basedpyright/pull/354). Follow [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) for maintained code.
+
 <h1><img src="https://github.com/DetachHead/basedpyright/assets/57028336/c7342c31-bf23-413c-af6d-bc430898b3dd"> basedpyright</h1>
 
 [![pypi](https://img.shields.io/pypi/dm/basedpyright?logo=pypi&color=3775A9)](https://pypi.org/project/basedpyright/) [![visual studio marketplace](https://img.shields.io/visual-studio-marketplace/d/detachhead.basedpyright?logo=visualstudiocode&color=007ACC
